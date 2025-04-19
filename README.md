@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif"  />
+<img align="right" height="300" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif"  />
 
 ###
 
