@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diaslo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diaslo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
@@ -36,6 +29,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diaslo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diaslo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diaslo/diaslo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diaslo/diaslo/output/pacman-contribution-graph.svg">
@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="225" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif"  />
+<img align="left" height="225" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif"  />
 
 ###
 
@@ -52,6 +52,12 @@
   <a href="https://open.spotify.com/user/31ahl27w44ulsqpr2sxmsh64isxy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ahl27w44ulsqpr2sxmsh64isxy&count=4&unique=false" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=diaslo.diaslo&"  />
 </div>
 
 ###
