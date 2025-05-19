@@ -1,9 +1,11 @@
-<h2 align="left">Sup 🌐, i am Danil, y.o 16⌛</h2>
+<h2 align="center">Sup 🌐, i am Danil, y.o 16⌛</h2>
 
 ###
 
 <div align="center">
-<img src="https://www.codewars.com/users/diaslo/badges/large" href="https://www.codewars.com/users/diaslo"></img>
+<a href="https://www.codewars.com/users/diaslo">
+<img src="https://www.codewars.com/users/diaslo/badges/large"></img>
+</a>
 </div>
 
 <div align="left">
