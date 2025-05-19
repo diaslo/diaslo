@@ -34,6 +34,10 @@
 
 ###
 
+<div align="center">
+<img src="https://www.codewars.com/users/diaslo/badges/large"></img>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diaslo/diaslo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diaslo/diaslo/output/pacman-contribution-graph.svg">
