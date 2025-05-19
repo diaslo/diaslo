@@ -1,3 +1,5 @@
+<img align="center" height="225" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif"  />
+
 <h2 align="center">Sup 🌐, i am Danil, y.o 16⌛</h2>
 
 ###
@@ -49,8 +51,6 @@
 </picture>
 
 ###
-
-<img align="center" height="225" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif"  />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=diaslo.diaslo&"  />
